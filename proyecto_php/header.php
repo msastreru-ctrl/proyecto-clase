@@ -15,7 +15,6 @@
         <a href="socis.php">Socis</a>
         <a href="llibres.php">Llibres</a>
         <a href="prestecs.php">Préstecs</a>
-        <a href="resum.php">Resum</a>
     </nav>
 </header>
 
